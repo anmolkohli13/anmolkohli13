@@ -4,8 +4,9 @@
 ### 📝 About Me
 
 - 🔭 I’m currently working on Front end Development
-- 🌱 I’m currently learning about contributing to Opensource   
+- 🔗 I’m currently learning about contributing to Opensource 
 - 🤔 I’m looking for help with learning Ruby on Rails
+- 📑 Currently learning MERN stack 
 
 ### Tech Stack 💻
  ![](https://img.shields.io/badge/-++-informational?style=flat&logo=C&logoColor=white&color=blue)  ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=green)  ![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=orange) ![](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue) ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=EFD81D) ![](https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=purple) ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=important) ![](https://img.shields.io/badge/-Github-informational?style=flat&logo=Github&logoColor=white&color=black)
