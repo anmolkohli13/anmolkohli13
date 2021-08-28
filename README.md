@@ -13,9 +13,7 @@
  
 
  
-[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolkohli13&theme=blue-green&count_private)](https://github.com/anmolkohli13/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolkohli13&layout=compact&theme=blue-green&count_private)](https://github.com/anmolkohli13/github-readme-stats)
 
 <!-- ### Connect with me
 
