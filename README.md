@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Front end Development
 - 🔗 I’m currently learning about contributing to Opensource 
-- 🤔 I’m looking for help with learning Ruby on Rails
+<!-- - 🤔 I’m looking for help with learning Ruby on Rails -->
 - 📑 Currently learning MERN stack 
 
 ### Tech Stack 💻
